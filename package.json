@@ -17,10 +17,9 @@
   "homepage": "https://github.com/depemu/mustart#readme",
   "devDependencies": {
     "beeper": "^1.1.1",
-    "bourbon": "^5.1.0",
-    "bourbon-neat": "^3.0.1",
     "browser-sync": "^2.26.3",
     "compass-mixins": "^0.12.10",
+    "foundation-sites": "^6.5.3",
     "gulp": "^3.2.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-cache": "^1.1.1",
@@ -35,8 +34,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
-    "mustart-gradients": "0.0.3",
-    "mustart-media-queries": "0.0.6"
+    "jquery": "^3.3.1"
   },
   "dependencies": {}
 }
