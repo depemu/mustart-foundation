@@ -1,4 +1,15 @@
 {
+  "configuration": {
+    "directory": {
+      "build": "./public",
+      "pages": "./pages",
+      "templates": "./templates",
+      "scripts": "./scripts",
+      "styles": "./styles",
+      "images": "./images",
+      "misc": "./misc"
+    }
+  },
   "scripts": [
     "./node_modules/jquery/dist/jquery.min.js",
     "./node_modules/foundation-sites/dist/js/plugins/foundation.core.min.js"
