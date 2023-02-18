@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/depemu/mustart/issues"
+    "url": "https://github.com/depemu/mustart-foundation/issues"
   },
-  "homepage": "https://github.com/depemu/mustart#readme",
+  "homepage": "https://github.com/depemu/mustart-foundation#readme",
   "dependencies": {
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
@@ -24,7 +24,6 @@
     "del": "^5.1.0",
     "foundation-sites": "^6.6.3",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
